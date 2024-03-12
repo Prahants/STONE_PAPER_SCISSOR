@@ -1,2 +1,4 @@
 # STONE_PAPER_SCISSOR
 MINI PROJECT BASE I ON PYTHON
+<br>
+Author:- Prashant Kumar
